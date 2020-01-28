@@ -1,4 +1,5 @@
-def new_hash [key1]
+def new_hash ["hello"]
+  
 
 end
 
