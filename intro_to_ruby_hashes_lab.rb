@@ -1,7 +1,8 @@
 def new_hash ["hello","bye"]
   puts "say hello"
   new_hash.each do |greetings|
-    
+    if array {0} 
+      
 
 end
 
