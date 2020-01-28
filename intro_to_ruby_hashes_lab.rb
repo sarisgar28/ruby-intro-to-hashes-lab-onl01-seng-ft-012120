@@ -9,7 +9,7 @@ def new_hash {"hello"
   
   end
 
-def actor ["leonardo Dicaprio"]
+def actor_who_won_oscar = ["leonardo Dicaprio"]
   
 
 end
