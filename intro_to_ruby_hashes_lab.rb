@@ -1,8 +1,9 @@
-def new_hash ("hello")
+def new_hash {"hello"
   :hello => "greeting"
   puts "say hello"
   new_hash.each do |greetings|
     #greeting 
+    }
   end 
   
       
