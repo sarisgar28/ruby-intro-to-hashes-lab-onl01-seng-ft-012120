@@ -1,6 +1,6 @@
-def new_hash ["hello"]
+def new_hash ["hello","bye"]
   puts "say hello"
-  #new_hash 
+  new_hash.each do 
 
 end
 
