@@ -6,11 +6,11 @@ def new_hash {"hello"
     }
   end 
   
-      
+  
+  end
 
-end
-
-def actor
+def actor ["leonardo Dicaprio"]
+  
 
 end
 
