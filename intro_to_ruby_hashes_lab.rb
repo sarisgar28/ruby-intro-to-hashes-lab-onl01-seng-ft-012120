@@ -1,5 +1,5 @@
 def new_hash {"hello"
-  :hello => "greeting"
+  :hello = "greeting"
   puts "say hello"
   new_hash.each do |greetings|
     #greeting 
