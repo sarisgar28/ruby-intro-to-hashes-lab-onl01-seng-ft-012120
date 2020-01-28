@@ -1,5 +1,6 @@
 def new_hash ["hello"]
-  
+  puts "say hello"
+  #new_hash 
 
 end
 
