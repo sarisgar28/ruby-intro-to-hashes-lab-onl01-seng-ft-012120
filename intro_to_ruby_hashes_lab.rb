@@ -1,4 +1,5 @@
-def new_hash ["hello","bye"]
+def new_hash ["hello","bye"
+  :hello => greeting
   puts "say hello"
   new_hash.each do |greetings|
     if array {0} 
